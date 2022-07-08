@@ -31,3 +31,7 @@ The car detail page should look like this:
 ![image](https://mate-academy-images.s3.eu-central-1.amazonaws.com/django-forms-2.png)
 
 NOTE: Attach screenshots of all created or modified pages to pull request. It's important to attach images not links to them.
+"# taxi-service" 
+"# taxi-service" 
+"# taxi-service" 
+"# taxi-service" 
